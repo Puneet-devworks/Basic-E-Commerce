@@ -2,6 +2,13 @@
 
 Title: Shoppers Arena
 
+Steps to run: 
+1. Download the code or clone git repo and open in an IDE
+2. execute npm install in terminal
+3. execute npm start 
+4. On console you will see the port on which app is listening to
+5. open localhost:<PORT> in browser to open the app
+
 Technologies Used:
 
 - Angular Js - page templates created using Angular js. 
